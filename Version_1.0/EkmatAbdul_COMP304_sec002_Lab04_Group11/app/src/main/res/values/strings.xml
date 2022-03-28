@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EkmatAbdul_Comp304Sec002_Lab04_Group11</string>
+    <string name="login_librarian_btn">Librarian Login</string>
+    <string name="login_student_btn">Student Login</string>
+    <string name="signup_student_btn">Student Signup</string>
+    <string name="library_name">Centennial College Library</string>
+    <string name="student_signup">Student Signup</string>
+    <string name="studentid_hint">Student Id</string>
+    <string name="librarianid_hint">Librarian Id</string>
+    <string name="pass_hint">Password</string>
+    <string name="student_first_hint">First Name</string>
+    <string name="student_last_hint">Last Name</string>
+    <string name="return_to_main">Back to Home Page</string>
+    <string name="student_login">Student Login</string>
+    <string name="librarian_login">Librarian Login</string>
+    <string name="title">Title</string>
+    <string name="title_tag">Title: </string>
+    <string name="author">Author: </string>
+    <string name="category">Category: </string>
+    <string name="quantity">Quantity: </string>
+    <string name="description">Description: </string>
+    <string name="book_id">Book ID: </string>
+    <string name="book_details">Book Details</string>
+    <string name="borrow_book">Borrow Book</string>
+</resources>
